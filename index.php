@@ -1,8 +1,6 @@
 <?php
 
-require_once "Somberbrook/src/Unit/StanhopeHero.php";
-require_once "Somberbrook/src/Unit/WildBeast.php";
-require_once "Somberbrook/src/Fight.php";
+require './vendor/autoload.php';
 
 use Somberbrook\Unit\StanhopeHero;
 use Somberbrook\Unit\WildBeast;

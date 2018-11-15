@@ -2,8 +2,6 @@
 
 namespace Somberbrook\Unit;
 
-require_once "SomberbrookUnit.php";
-
 use Somberbrook\Unit\SomberbrookUnit;
 
 /**

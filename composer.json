@@ -1,0 +1,16 @@
+{
+  "name": "serhiishevchyk/somberbrook-world",
+  "authors": [
+    {
+      "name": "Serhii Shevchyk",
+      "email": "serhii.shevchyk@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Somberbrook\\": "Somberbrook/src/",
+      "Vendor\\Namespace\\": ""
+    }
+  }
+}
